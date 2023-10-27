@@ -73,3 +73,4 @@ function atWin(result){
         document.getElementById("msg").innerHTML = "Tie ,Click refresh to play !!"
     }
 }
+//end of file
