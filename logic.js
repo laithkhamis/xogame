@@ -60,6 +60,7 @@ function didWin(state){
     }
 }
 function atWin(result){
+    // some comment
     if(result == "x" || result == "o"){
         someOneWin =true;
     }
